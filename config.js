@@ -9,18 +9,18 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['2120684986466', 'yosf', true],
+['2120684986466', 'silana', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '2120684986466',
+ pairingNumber: '2120684986466',
+ nameown: 'yousf',
+ nomerown: '2120684986466',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'yesf',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
@@ -48,7 +48,7 @@ global.media = {
 global.url = {
  sig: 'https://instagram.com/noureddine_ouafy',
  sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sgc: 'https://whatsapp.com/channel/0029VakIu4fGOj9uQqc96m09',
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
